@@ -19,4 +19,4 @@ Follow this link - [Planet Earth](https://ahmed-arafaath.github.io/) to see my f
  
  *Note - I made the webpage as responsive as possible to all devices.*
  
- Thank you for visiting the webpage, Hope you liked it!!. :blush: :blush:
+ Thank you for visiting the webpage, Hope you liked it!! :blush: :blush:
