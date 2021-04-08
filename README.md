@@ -1,4 +1,4 @@
-# ahmed-arafaath.github.io
+# The Planet Earth
 
 This webpage was a part of the PSET solution for the course CS50 - Introduction to computer science. For more details on the course, follow this [link](https://cs50.harvard.edu/x/2021/).
 
