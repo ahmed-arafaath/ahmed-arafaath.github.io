@@ -5,7 +5,7 @@ This webpage was a part of the PSET solution for the course **CS50 - Introductio
 Basic webpage project | #HTML5 #Bootstrap #CSS #Javascipt
 
 
-Follow this link - [Planet Earth](https://ahmed-arafaath.github.io/) to see my first webpage.
+Follow this link - [Planet Earth](https://ahmed-arafaath.github.io/) to see the webpage.
 
 ## Software Programmes Used ##
   * HTML
