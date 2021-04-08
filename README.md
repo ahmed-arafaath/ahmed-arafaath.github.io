@@ -13,3 +13,9 @@ Follow this link - [Planet Earth](https://ahmed-arafaath.github.io/) to see the 
  
  ## Framework used ##
   * Bootstrap
+ <br> <br> <br> <br>
+ 
+ 
+ *Note - I made the webpage as responsive as possible to the urrent extend of my knowledge.*
+ 
+ Thank you for visiting the webpage, Hope you liked it!!. :blush: :blush:
