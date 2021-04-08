@@ -1,0 +1,302 @@
+/* this is a common style sheet for all the html pages */
+
+.container1 {
+  position: relative;
+  border-radius: 10px;
+}
+
+#content1 {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  border-radius: 25px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 20vw;
+}
+
+p {
+  text-align: justify;
+  text-indent: 50px;
+}
+
+.continent {
+  color: #b30000;
+  position: relative;
+  width: Auto;
+}
+
+img {
+  width: Auto;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.opacity {
+  opacity: 0.5;
+}
+
+homosapiens {
+  color: #b30000;
+  position: relative;
+}
+
+.display {
+  width: 80%;
+  margin: auto;
+}
+
+.display ul {
+	list-style-type: none;
+  padding: 15px;
+  padding-top: 20px;
+
+}
+
+.display ul li{
+  display: inline-block;
+	background: #A51C30;
+	border-radius:10px;
+	margin: auto;
+}
+
+.display a{
+	color:#FFA07A;
+	text-decoration: none;
+	font-size:18px;
+	padding: 3px;
+}
+
+.display a:hover {
+  color:#4FFFB0;
+}
+
+.table {
+   display: flex !important;
+}
+
+header {
+  text-align: justify !important;
+}
+
+footer {
+  text-align: center;
+}
+
+#container2 {
+  margin:150px auto 150px auto;
+  width:80%;
+  display: flex;
+  padding: 5px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.box-1 {
+  flex: 1;
+  order: 1;
+	background-color:#696969;
+  border-right: 3px red solid;
+  padding: 5px;
+  flex-basis: 49%;
+  position:relative;
+}
+
+.box-2 {
+  flex: 2;
+  order: 2;
+	background-color:#696969;
+  padding: 5px;
+  flex-basis: 49%;
+  position:relative;
+}
+
+.box-1 h2, .box-2 h2 {
+  text-align: center;
+  font-weight:800;
+}
+
+.box-1 p {
+  color: #8B0000;
+  text-align: center;
+  margin: 5px !important;
+}
+
+.box-1 hr, .box-2 hr {
+  margin:0 !important;
+}
+
+.box-2 p {
+  margin: 5px !important;
+}
+
+.box-2 label {
+  display: inline;
+}
+
+.my-form{
+	padding:15px;
+}
+
+.my-form .form-group{
+	padding-bottom:10px;
+}
+
+.my-form label{
+	display:block;
+}
+
+.my-form input[type="text"], .my-form input[type="email"]{
+	padding:8px;
+	width:100%;
+	border-radius: 10px;
+	background-color: #DCDCDC;
+}
+
+.my-form textarea{
+	width:100%;
+	border-radius: 10px;
+	background-color: #DCDCDC;
+}
+
+.box-2 p {
+  padding-bottom:10px;
+}
+
+.box-1 .submit{
+	position:absolute;
+	bottom:10px;
+	left:25px;
+	clear:both;
+}
+
+.box-2 .submit{
+	position:absolute;
+	bottom:10px;
+	left:25px;
+}
+
+.box-2 input[type="radio"]{
+	padding:5px;
+}
+
+.my-form .label1 {
+	display:inline;
+}
+
+
+.container-md {
+  justify-content: center !important;
+  align-items: center;
+}
+.quiz-container {
+  background-color: #696969;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.quiz-container h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #B22222;
+  background-color: #DCDCDC;
+  border-radius: 10px;
+}
+
+.quiz-container .controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+.controls #start-btn, .controls #next-btn, .controls #prev-btn, .controls #finish-btn {
+  margin: 5px;
+}
+
+.btnn {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: #F8F8FF;
+  color: #696969;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnn:hover {
+  background-color: #DAA520;
+}
+
+.answers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#score h2 {
+  text-align: center;
+  align-items: center;
+  font-style: italic;
+  color: #20B2AA;
+  display: block;
+}
+
+
+
+/* this is make the webpage responsive in all devices */
+@media (max-width: 414px) {
+footer {
+  position: relative !important;
+  bottom:0;
+  margin-top: auto !important;
+}}
+
+
+@media (max-width: 1024px) {
+  body {
+    width:100%;
+  }
+  .table {
+   display: block !important;
+}
+
+#container2 {
+  display: block;
+  margin: auto;
+}
+
+.box-1 {
+  border:0;
+  border-bottom: 3px red solid;
+}
+
+
+.box-2 .submit{
+	position: relative;
+  bottom: auto;
+  left: auto;
+  margin-top: 10px;
+}
+
+.answers {
+  display: block;
+  font-size: 15px;
+}
+
+#quiz-question h3 {
+  font-size: 20px !important;
+}}
+
+
+@media (max-width: 768px) {
+
+html {
+    font-size: 75%;
+}}
