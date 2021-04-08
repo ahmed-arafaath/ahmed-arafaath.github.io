@@ -4,7 +4,8 @@ This webpage was a part of the PSET solution for the course **CS50 - Introductio
 
 Basic webpage project | #HTML5 #Bootstrap #CSS #Javascipt
 
-Follow this link - [Planet Earth](https://ahmed-arafaath.github.io/) to see the webpage.
+
+Follow this link - [Planet Earth](https://ahmed-arafaath.github.io/) to see my first webpage.
 
 ## Software Programmes Used ##
   * HTML
@@ -16,6 +17,6 @@ Follow this link - [Planet Earth](https://ahmed-arafaath.github.io/) to see the 
  <br> <br> <br> <br>
  
  
- *Note - I made the webpage as responsive as possible to the urrent extend of my knowledge.*
+ *Note - I made the webpage as responsive as possible to all devices.*
  
  Thank you for visiting the webpage, Hope you liked it!!. :blush: :blush:
