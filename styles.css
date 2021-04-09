@@ -292,7 +292,14 @@ footer {
 
 #quiz-question h3 {
   font-size: 20px !important;
-}}
+}
+#content1 .lead {
+  font-size: 0.75rem !important;	
+}
+#content1 .display4 {
+  font-size: 1.7rem !important;	
+}
+}
 
 
 @media (max-width: 768px) {
